@@ -8,14 +8,12 @@ This website is work on Local Host made by HTML5, CSS3 and PHP.
   4) User can see the number of Bottle and Event of the Blood Donation in Website.
   5) Login and Logout Facility to update the database.
   
- **Images:-
- 1)Home Page:-
  <img width="947" alt="image" src="https://user-images.githubusercontent.com/79891868/196252595-3ec38f7f-c0d4-4cc2-9de1-995440a98acd.png">
- 2)Login Page:- 
+
  <img width="960" alt="image" src="https://user-images.githubusercontent.com/79891868/196252840-dfe61bef-2ef5-490f-bca1-3d86f4b523f9.png">
- 3)Add Donor Data:-
+
  <img width="947" alt="image" src="https://user-images.githubusercontent.com/79891868/196253021-533ded6f-49cf-416e-8e74-cec2ff8b00b6.png">
- 4)Blood Bank:- 
+
  <img width="959" alt="image" src="https://user-images.githubusercontent.com/79891868/196253178-e724e11e-36a7-47ee-a199-6ef6d9f9eeac.png">
 
  
