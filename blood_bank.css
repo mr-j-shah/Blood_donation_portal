@@ -1,0 +1,42 @@
+body {
+   font-size: 15px;
+   color: #fff;
+   /* background-image:url(6.jpeg) ; */
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+
+   filter: brightness(10);
+
+
+}
+
+.a {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+.b {
+   padding: 10px;
+   border: 1px solid black;
+   width: 200px;
+   background-color: red;
+   color: white;
+   font-size: 30px;
+}
+
+.c {
+   height: 200px;
+   text-align: center;
+   opacity: 0.6;
+   
+   margin: auto;
+}
+
+.d {
+   text-align: center;
+   border: 1px solid black;
+   font-size: 30px;
+   font-weight: 900;
+   color: black;
+}

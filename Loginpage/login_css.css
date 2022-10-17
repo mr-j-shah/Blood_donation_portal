@@ -1,0 +1,74 @@
+*{
+    box-sizing:  border-box
+}
+
+body{
+ font-size: 15px;
+ color: #fff;
+ background-image:url(../Images/Login_bg.jpg) ;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+.karan{
+    background-color: rgba(0,0,0,0.5);
+    margin: auto;
+    padding: 40px;
+    border-radius: 0 0 0 0 10px;
+    position:absolute;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 500px;
+    height: 400px;
+}
+.karan:before{
+    position: relative;
+    width: 1400px;
+    height: 700px;
+    -webkit-background-size:cover;
+    background-size: cover;
+    content: '';
+    position: fixed;
+   
+    z-index: -1;
+    display: block;
+    filter: blur(10px);
+    
+    
+} 
+.karan .header-text{
+    font-size: 40px;
+    font-family: 600;
+    padding-bottom: 30px;
+    text-align: center;
+   
+}
+.karan input{
+    margin: 10px 0;
+    border:none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    font-size: 15px;
+
+}
+.karan button{
+    background-color: #fb5a2f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width:100% ;
+    font-size: 18px;
+    padding: 10px 10px;
+    margin: 50px 0px;
+    font-weight: 600;
+}
+.k:hover{
+  background-color:white;
+  color:red;  
+  border: none;
+  font-weight: 600;
+}

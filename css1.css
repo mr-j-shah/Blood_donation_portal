@@ -1,0 +1,48 @@
+.header {
+    /* height: 20; */
+    /* margin: auto; */
+    padding: 10px;
+    text-align: center;
+    background: #99000d;
+    color: white;
+}
+.nav {
+    position: sticky;
+    justify-content: center;
+    display: flex;
+    padding: 10px 10px;
+    background: rgb(240, 240, 240);
+    color: white;
+}
+
+.body {
+    background-color: white;
+}
+
+* {
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.logoimage {
+    width: 5%;
+    padding-right: 60%;
+}
+
+.navitem {
+
+    display: inline;
+    color: #99000d;
+    column-gap: 20px;
+    padding: 20px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
