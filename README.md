@@ -1,7 +1,7 @@
 # Blood_donation_portal
 This is a Blood Donation Portal which is used by any NGO who is working in direction of the Blood Donation and Blood bank. 
 This website is work on Local Host made by HTML5, CSS3 and PHP. 
-**Features:-
+  **Features:-
   1) Add donor data in the Database.
   2) Add event of the Blood Donation.
   3) Update the Data of the Blood Bank in the Database.
